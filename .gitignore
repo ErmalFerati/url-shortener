@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/*
+
+### Java-Web ###
+## ignoring target file
+target/
+
+### Maven ###
+.mvn/*
+mvn*
